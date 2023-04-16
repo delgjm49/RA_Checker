@@ -1,0 +1,322 @@
+[
+  {
+    "id": 1,
+    "name": "Mega Drive"
+  },
+  {
+    "id": 2,
+    "name": "Nintendo 64"
+  },
+  {
+    "id": 3,
+    "name": "SNES"
+  },
+  {
+    "id": 4,
+    "name": "Game Boy"
+  },
+  {
+    "id": 5,
+    "name": "Game Boy Advance"
+  },
+  {
+    "id": 6,
+    "name": "Game Boy Color"
+  },
+  {
+    "id": 7,
+    "name": "NES"
+  },
+  {
+    "id": 8,
+    "name": "PC Engine"
+  },
+  {
+    "id": 9,
+    "name": "Sega CD"
+  },
+  {
+    "id": 10,
+    "name": "32X"
+  },
+  {
+    "id": 11,
+    "name": "Master System"
+  },
+  {
+    "id": 12,
+    "name": "PlayStation"
+  },
+  {
+    "id": 13,
+    "name": "Atari Lynx"
+  },
+  {
+    "id": 14,
+    "name": "Neo Geo Pocket"
+  },
+  {
+    "id": 15,
+    "name": "Game Gear"
+  },
+  {
+    "id": 16,
+    "name": "GameCube"
+  },
+  {
+    "id": 17,
+    "name": "Atari Jaguar"
+  },
+  {
+    "id": 18,
+    "name": "Nintendo DS"
+  },
+  {
+    "id": 19,
+    "name": "Wii"
+  },
+  {
+    "id": 20,
+    "name": "Wii U"
+  },
+  {
+    "id": 21,
+    "name": "PlayStation 2"
+  },
+  {
+    "id": 22,
+    "name": "Xbox"
+  },
+  {
+    "id": 23,
+    "name": "Magnavox Odyssey 2"
+  },
+  {
+    "id": 24,
+    "name": "Pokemon Mini"
+  },
+  {
+    "id": 25,
+    "name": "Atari 2600"
+  },
+  {
+    "id": 26,
+    "name": "DOS"
+  },
+  {
+    "id": 27,
+    "name": "Arcade"
+  },
+  {
+    "id": 28,
+    "name": "Virtual Boy"
+  },
+  {
+    "id": 29,
+    "name": "MSX"
+  },
+  {
+    "id": 30,
+    "name": "Commodore 64"
+  },
+  {
+    "id": 31,
+    "name": "ZX81"
+  },
+  {
+    "id": 32,
+    "name": "Oric"
+  },
+  {
+    "id": 33,
+    "name": "SG-1000"
+  },
+  {
+    "id": 34,
+    "name": "VIC-20"
+  },
+  {
+    "id": 35,
+    "name": "Amiga"
+  },
+  {
+    "id": 36,
+    "name": "Atari ST"
+  },
+  {
+    "id": 37,
+    "name": "Amstrad CPC"
+  },
+  {
+    "id": 38,
+    "name": "Apple II"
+  },
+  {
+    "id": 39,
+    "name": "Saturn"
+  },
+  {
+    "id": 40,
+    "name": "Dreamcast"
+  },
+  {
+    "id": 41,
+    "name": "PlayStation Portable"
+  },
+  {
+    "id": 42,
+    "name": "Philips CD-i"
+  },
+  {
+    "id": 43,
+    "name": "3DO Interactive Multiplayer"
+  },
+  {
+    "id": 44,
+    "name": "ColecoVision"
+  },
+  {
+    "id": 45,
+    "name": "Intellivision"
+  },
+  {
+    "id": 46,
+    "name": "Vectrex"
+  },
+  {
+    "id": 47,
+    "name": "PC-8000/8800"
+  },
+  {
+    "id": 48,
+    "name": "PC-9800"
+  },
+  {
+    "id": 49,
+    "name": "PC-FX"
+  },
+  {
+    "id": 50,
+    "name": "Atari 5200"
+  },
+  {
+    "id": 51,
+    "name": "Atari 7800"
+  },
+  {
+    "id": 52,
+    "name": "Sharp X68000"
+  },
+  {
+    "id": 53,
+    "name": "WonderSwan"
+  },
+  {
+    "id": 54,
+    "name": "Cassette Vision"
+  },
+  {
+    "id": 55,
+    "name": "Super Cassette Vision"
+  },
+  {
+    "id": 56,
+    "name": "Neo Geo CD"
+  },
+  {
+    "id": 57,
+    "name": "Fairchild Channel F"
+  },
+  {
+    "id": 58,
+    "name": "FM Towns"
+  },
+  {
+    "id": 59,
+    "name": "ZX Spectrum"
+  },
+  {
+    "id": 60,
+    "name": "Game & Watch"
+  },
+  {
+    "id": 61,
+    "name": "Nokia N-Gage"
+  },
+  {
+    "id": 62,
+    "name": "Nintendo 3DS"
+  },
+  {
+    "id": 63,
+    "name": "Watara Supervision"
+  },
+  {
+    "id": 64,
+    "name": "Sharp X1"
+  },
+  {
+    "id": 65,
+    "name": "TIC-80"
+  },
+  {
+    "id": 66,
+    "name": "Thomson TO8"
+  },
+  {
+    "id": 67,
+    "name": "PC-6000"
+  },
+  {
+    "id": 68,
+    "name": "Sega Pico"
+  },
+  {
+    "id": 69,
+    "name": "Mega Duck"
+  },
+  {
+    "id": 70,
+    "name": "Zeebo"
+  },
+  {
+    "id": 71,
+    "name": "Arduboy"
+  },
+  {
+    "id": 72,
+    "name": "WASM-4"
+  },
+  {
+    "id": 73,
+    "name": "Arcadia 2001"
+  },
+  {
+    "id": 74,
+    "name": "Interton VC 4000"
+  },
+  {
+    "id": 75,
+    "name": "Elektor TV Games Computer"
+  },
+  {
+    "id": 76,
+    "name": "PC Engine CD"
+  },
+  {
+    "id": 77,
+    "name": "Atari Jaguar CD"
+  },
+  {
+    "id": 78,
+    "name": "Nintendo DSi"
+  },
+  {
+    "id": 100,
+    "name": "Hubs"
+  },
+  {
+    "id": 101,
+    "name": "Events"
+  }
+]
