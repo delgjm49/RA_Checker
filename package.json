@@ -1,0 +1,12 @@
+{
+  "type": "module",
+  "dependencies": {
+    "@retroachievements/api": "^1.0.0",
+    "crypto": "^1.0.1",
+    "fs": "^0.0.1-security",
+    "jszip": "^3.10.1",
+    "nodeJS": "^1.0.0",
+    "unzip": "^0.1.11",
+    "yarn": "^1.22.19"
+  }
+}
